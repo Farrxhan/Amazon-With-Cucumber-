@@ -12,9 +12,10 @@ feature file
  And I click on submit button
  Examples: 
  | emailId | password |
- | 75109555** | Ikru@19** |
+ | your-emialid | your-password |
  Scenario: 
  Then I start searching item
  Then now i click on searched item
  And i add the item to wishlist for further booking
  Then i close the browser
+
